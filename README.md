@@ -14,8 +14,8 @@ $.jcontexy is a free jQuery plugin that allows you to bind contextmenu on your e
 
 ##Dependencies
 jContexy will need following to work ! you can find them on the Dependencies folder or you can use latest available CDNs ! 
-jQuery 
-jQuery UI (js (required) + css (optional) )
+- jQuery 
+- jQuery UI (js (required) + css (optional) )
 
 
 ##Usage
@@ -53,11 +53,12 @@ $('.user,.profile').jcontexy({
                     'menu': '.userMenu',
                     'event': 'contextmenu',
                     'position': 'left top',
-                    at: 'right-5 top+5',
-                    collision: 'flipfit'
+                    'at': 'right-5 top+5',
+                    'collision': 'flipfit'
                 });
 ```
 
-[Visit my website][http://maghrooni.ir]
+[Visit My Website]
+[Visit My Website]: http://www.maghrooni.ir
 
 
