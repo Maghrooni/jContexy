@@ -3,12 +3,12 @@
     "title": "jContexy",
     "description": "jQuery Plugin for handling simple Context menu",
     "keywords": [
-        "context menu",
+        "contextmenu",
         "jcontexy",
 		"Maghrooni",
 		"menu"
     ],
-    "version": "1.0",
+    "version": "1.0.0",
     "author": {
         "name": "Mahdi Maghrooni",
         "url": "https://github.com/Maghrooni/jContexy"
