@@ -1,0 +1,37 @@
+{
+    "name": "jContexy",
+    "title": "jContexy",
+    "description": "jQuery Plugin for handling simple Context menu",
+    "keywords": [
+        "context menu",
+        "jcontexy",
+		"Maghrooni",
+		"menu"
+    ],
+    "version": "1.0",
+    "author": {
+        "name": "Mahdi Maghrooni",
+        "url": "https://github.com/Maghrooni/jContexy"
+    },
+    "maintainers": [
+        {
+            "name": "Mahdi Maghrooni",
+            "email": "me@maghrooni.ir",
+            "url": "http://maghrooni.ir"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/Maghrooni/jContexy/blob/master/LICENSE"
+        }
+    ],
+    "bugs": "https://github.com/Maghrooni/jContexy/issues",
+    "homepage": "https://github.com/Maghrooni/jContexy",
+    "docs": "https://github.com/Maghrooni/jContexy/blob/master/README.md",
+    "download": "https://github.com/Maghrooni/jContexy/archive/master.zip",
+    "dependencies": {
+        "jquery": ">=1.8",
+		"jquery ui":">=1.8"
+    }
+}
